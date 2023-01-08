@@ -3,7 +3,7 @@ export default {
   description: 'How to use better table',
   appearance: false,
   lastUpdated: true,
-  base: '',
+  base: '/vue-better-table-docs/',
   themeConfig: {
     sidebar: [
       {
