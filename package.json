@@ -1,0 +1,20 @@
+{
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "name": "vitepress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.34",
+    "vue": "^3.2.45",
+    "vue-loader": "^17.0.1"
+  },
+  "dependencies": {
+    "sass": "^1.57.1",
+    "vue-better-table": "^0.0.5"
+  }
+}
